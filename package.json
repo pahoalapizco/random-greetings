@@ -1,0 +1,22 @@
+{
+  "name": "random-greetings-paho",
+  "version": "1.0.0",
+  "description": "Generador de saludos random en distintos idiomas",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascrip",
+    "node",
+    "npm",
+    "random",
+    "messages"
+  ],
+  "author": "Paola Alapizco <paolac.alapizco@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-greetings-paho": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
